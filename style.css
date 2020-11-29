@@ -1,0 +1,17 @@
+#fbg{
+    background:url('assets/bg.png') no-repeat center top;
+    background-size:cover;
+    background-attachment:fixed;
+    margin-top:55px;
+}
+.sign-up-area{
+    opacity:0.8;
+}
+.dark-overlay{
+    background:rgba(0,0,0,0.5)
+}
+.navbar{
+   
+    opacity:0.8;
+    background:gray;
+}
